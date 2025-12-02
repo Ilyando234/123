@@ -731,7 +731,7 @@
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 0,
-          "texCoord": 1
+          "texCoord": 0
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -765,7 +765,7 @@
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 1,
-          "texCoord": 1
+          "texCoord": 0
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -776,7 +776,7 @@
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 2,
-          "texCoord": 1
+          "texCoord": 0
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -787,7 +787,7 @@
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 3,
-          "texCoord": 1
+          "texCoord": 0
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -798,7 +798,7 @@
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 4,
-          "texCoord": 1
+          "texCoord": 0
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -809,7 +809,7 @@
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 5,
-          "texCoord": 1
+          "texCoord": 0
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -820,7 +820,7 @@
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 6,
-          "texCoord": 1
+          "texCoord": 0
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -1773,3 +1773,4 @@
     }
   ]
 }
+
